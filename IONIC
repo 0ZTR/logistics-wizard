@@ -1,11 +1,10 @@
 //+------------------------------------------------------------------+
-//|                                         FxNode - Safe Tunnel.mq4 |
+//|                                                           FxNode |
 //|                                     Copyright 2018, FxNode Group |
 //|                                             https://ozturna.info |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2018, FxNode Group"
 #property link      "https://www.FxNode.ir"
-#property link      "https://ozturna.info"
 #property version   "1.0"
 #property strict    "0:0"
 
